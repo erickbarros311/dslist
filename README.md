@@ -21,8 +21,9 @@ Dutante a semana de programação, o objetivo é apresentar os conceitos e prát
 ![Modelo de domínio DSList](https://raw.githubusercontent.com/devsuperior/java-spring-dslist/main/resources/dslist-model.png)
 
 
-## Backend  
+## Backend rodando em produção
 
+![Code and Testes](https://github.com/erickbarros311/assets/blob/main/5.png)
 
 
 # Tecnologias utilizadas
@@ -33,9 +34,12 @@ Dutante a semana de programação, o objetivo é apresentar os conceitos e prát
 - Maven
 
 ## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
+- Back end: Localhost
+- Banco de dados de teste: H2
+- Banco de dados de produção: Postgresql
+
+## IDE de Desenvolvimento
+- IntelliJ IDEA 2025.1.1.1 (Community Edition)
 
 # Como executar o projeto
 
@@ -45,16 +49,15 @@ Pré-requisitos: Java 11
 ```bash
 # clonar repositório
 git clone https://github.com/erickbarros311/dslist
-
-# entrar na pasta do projeto back end
-cd backend
-
-# executar o projeto
-./mvnw spring-boot:run
 ```
+- Importar o projeto no IntelliJ IDEA-> [Veja aqui!](https://pt.stackoverflow.com/questions/342296/como-importar-e-configurar-um-projeto-maven-com-servidor-tomcat-no-intellij)
+
+```bash
+Para executar: botão direito -> RUN DsApplication....main()
+```
+![Exemplo:](https://github.com/erickbarros311/assets/blob/main/3.png)
 
 # Autor
 
 Erick Barros Nascimento
-
-[Linkedin](https://www.linkedin.com/in/erick-barros-nascimento-845a6060/)
+- --> [Linkedin](https://www.linkedin.com/in/erick-barros-nascimento-845a6060/)
