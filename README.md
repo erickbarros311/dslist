@@ -11,9 +11,9 @@ Dutante a semana de programação, o objetivo é apresentar os conceitos e prát
 
 ## Layout web - exemplificação
 
-![Web 1]
+![Web 1](https://github.com/erickbarros311/assets/blob/main/1.png)
 
-![Web 2]
+![Web 2](https://github.com/erickbarros311/assets/blob/main/2.png)
 
 
 ## Modelo de domínio DSList
