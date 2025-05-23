@@ -5,30 +5,25 @@
 
 DSList é uma aplicação backend construída durante a 2ª edição do **Intensivão Java Spring - Treinamento gratuito**, evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior"), entre os dias 19-23/05/2025.
 
-A aplicação consiste em de uma coleção de Jogos, onde os dados são coletados a partir da aplicação backend, e depois listados no browser. Também é possível obter a listagem a partir da categoria de games que o jogo está salvo.
+A aplicação consiste em de uma coleção de Jogos, onde os dados são carregados a partir da aplicação backend, e depois listados no browser. Também é possível obter a listagem a partir da categoria de games que o jogo está salvo.
 
 Dutante a semana de programação, o objetivo é apresentar os conceitos e práticas relativos ao backend somente. Assim, as imagens da aplicação completa, são apenas para demostração. 
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Web 1]
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+![Web 2]
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+![Modelo Conceitual]
 
 # Tecnologias utilizadas
 ## Back end
 - Java
 - Spring Boot
-- JPA / Hibernate
+- JPA 
 - Maven
-## Front end
-- HTML / CSS / JS / TypeScript
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
+
 ## Implantação em produção
 - Back end: Heroku
 - Front end web: Netlify
@@ -54,4 +49,4 @@ cd backend
 
 Erick Barros Nascimento
 
-https://www.linkedin.com/in/erick-barros-nascimento-845a6060/
+[Linkedin](https://www.linkedin.com/in/erick-barros-nascimento-845a6060/)
