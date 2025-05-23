@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-DSList é uma aplicação backend construída durante a 2ª edição da **Intensivão Java Spring - Treinamento gratuiro**, evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+DSList é uma aplicação backend construída durante a 2ª edição do **Intensivão Java Spring - Treinamento gratuiro**, evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
 A aplicação consiste em de uma coleção de Jogos, onde os dados são coletados a partir da aplicação backend, e depois listados no browser. Também é possível obter a listagem a partir da categoria de games que o jogo está salvo.
 
