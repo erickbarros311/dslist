@@ -53,5 +53,4 @@ cd backend
 # Autor
 
 Erick Barros Nascimento
-
-![Linkedin](https://www.linkedin.com/in/erick-barros-nascimento-845a6060/)
+https://www.linkedin.com/in/erick-barros-nascimento-845a6060/
