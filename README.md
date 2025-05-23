@@ -9,13 +9,21 @@ A aplicação consiste em de uma coleção de Jogos, onde os dados são carregad
 
 Dutante a semana de programação, o objetivo é apresentar os conceitos e práticas relativos ao backend somente. Assim, as imagens da aplicação completa, são apenas para demostração. 
 
-## Layout web
+## Layout web - exemplificação
+
 ![Web 1]
 
 ![Web 2]
 
-## Modelo conceitual
-![Modelo Conceitual]
+
+## Modelo de domínio DSList
+
+![Modelo de domínio DSList](https://raw.githubusercontent.com/devsuperior/java-spring-dslist/main/resources/dslist-model.png)
+
+
+## Backend  
+
+
 
 # Tecnologias utilizadas
 ## Back end
@@ -36,7 +44,7 @@ Pré-requisitos: Java 11
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/erickbarros311/dslist
 
 # entrar na pasta do projeto back end
 cd backend
