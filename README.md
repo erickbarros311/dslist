@@ -60,4 +60,5 @@ Para executar: botão direito -> RUN DsApplication....main()
 # Autor
 
 Erick Barros Nascimento
-- --> [Linkedin](https://www.linkedin.com/in/erick-barros-nascimento-845a6060/)
+- [Git](https://github.com/erickbarros311)
+- [Linkedin](https://www.linkedin.com/in/erick-barros-nascimento-845a6060/)
